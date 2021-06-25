@@ -1,0 +1,16 @@
+C:\Users\Cemil\Desktop\patika-if-else\bin\Debug\net5.0\patika-if-else.exe
+C:\Users\Cemil\Desktop\patika-if-else\bin\Debug\net5.0\patika-if-else.deps.json
+C:\Users\Cemil\Desktop\patika-if-else\bin\Debug\net5.0\patika-if-else.runtimeconfig.json
+C:\Users\Cemil\Desktop\patika-if-else\bin\Debug\net5.0\patika-if-else.runtimeconfig.dev.json
+C:\Users\Cemil\Desktop\patika-if-else\bin\Debug\net5.0\patika-if-else.dll
+C:\Users\Cemil\Desktop\patika-if-else\bin\Debug\net5.0\ref\patika-if-else.dll
+C:\Users\Cemil\Desktop\patika-if-else\bin\Debug\net5.0\patika-if-else.pdb
+C:\Users\Cemil\Desktop\patika-if-else\obj\Debug\net5.0\patika-if-else.csprojAssemblyReference.cache
+C:\Users\Cemil\Desktop\patika-if-else\obj\Debug\net5.0\patika-if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cemil\Desktop\patika-if-else\obj\Debug\net5.0\patika-if-else.AssemblyInfoInputs.cache
+C:\Users\Cemil\Desktop\patika-if-else\obj\Debug\net5.0\patika-if-else.AssemblyInfo.cs
+C:\Users\Cemil\Desktop\patika-if-else\obj\Debug\net5.0\patika-if-else.csproj.CoreCompileInputs.cache
+C:\Users\Cemil\Desktop\patika-if-else\obj\Debug\net5.0\patika-if-else.dll
+C:\Users\Cemil\Desktop\patika-if-else\obj\Debug\net5.0\ref\patika-if-else.dll
+C:\Users\Cemil\Desktop\patika-if-else\obj\Debug\net5.0\patika-if-else.pdb
+C:\Users\Cemil\Desktop\patika-if-else\obj\Debug\net5.0\patika-if-else.genruntimeconfig.cache
